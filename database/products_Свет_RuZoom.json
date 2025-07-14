@@ -1,0 +1,47 @@
+[
+    {
+        "id": "615a5e0e-4fad-446e-acd2-6cad1ae960aa",
+        "name": "RuZoom H7 32W",
+        "brand": "RuZoom",
+        "category": "Свет",
+        "price": "2000₽",
+        "description": "Свет",
+        "photo": "images/615a5e0e-4fad-446e-acd2-6cad1ae960aa.jpg"
+    },
+    {
+        "id": "164ca6c1-d9e5-4bba-b5f3-c7cfaeeca483",
+        "name": "RuZoom A80 H7",
+        "brand": "RuZoom",
+        "category": "Свет",
+        "price": "3200₽",
+        "description": "Свет",
+        "photo": "images/164ca6c1-d9e5-4bba-b5f3-c7cfaeeca483.jpg"
+    },
+    {
+        "id": "82616a70-7188-4b5a-b036-9fa6f9313585",
+        "name": "RuZoom H11 V45pro",
+        "brand": "RuZoom",
+        "category": "Свет",
+        "price": "2750₽",
+        "description": "Свет",
+        "photo": "images/82616a70-7188-4b5a-b036-9fa6f9313585.jpg"
+    },
+    {
+        "id": "daad24f0-7d20-4a7b-97a5-feaffb6b6cda",
+        "name": "RuZoom H4 V45Pro 65W",
+        "brand": "RuZoom",
+        "category": "Свет",
+        "price": "3900₽",
+        "description": "Свет",
+        "photo": "images/daad24f0-7d20-4a7b-97a5-feaffb6b6cda.jpg"
+    },
+    {
+        "id": "363082ab-2408-45e0-a6d3-f6cf43d967ef",
+        "name": "RuZoom D3S",
+        "brand": "RuZoom",
+        "category": "Свет",
+        "price": "4300₽",
+        "description": "Свет",
+        "photo": "images/363082ab-2408-45e0-a6d3-f6cf43d967ef.jpg"
+    }
+]

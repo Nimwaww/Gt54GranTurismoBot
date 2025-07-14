@@ -1,0 +1,20 @@
+[
+    {
+        "id": "b005d274-b876-4c20-89f6-68aaea32a3fb",
+        "name": "Michi 0W-20 4л",
+        "brand": "Michi",
+        "category": "Масла",
+        "price": "3300₽",
+        "description": "Моторное масло",
+        "photo": "images/b005d274-b876-4c20-89f6-68aaea32a3fb.jpg"
+    },
+    {
+        "id": "312dbccd-c509-4554-b53d-e7c868562948",
+        "name": "Michi 5W-30 4л",
+        "brand": "Michi",
+        "category": "Масла",
+        "price": "2650₽",
+        "description": "Моторное масло",
+        "photo": "images/312dbccd-c509-4554-b53d-e7c868562948.jpg"
+    }
+]

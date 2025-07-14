@@ -1,0 +1,110 @@
+[
+    {
+        "id": "7c3d2b39-18ab-412b-a6b8-a92a32208109",
+        "name": "Leraton C5",
+        "brand": "Leraton",
+        "category": "Косметика",
+        "price": "900₽",
+        "description": "Косметика",
+        "photo": "images/7c3d2b39-18ab-412b-a6b8-a92a32208109.jpg"
+    },
+    {
+        "id": "3ec9c25e-a56b-4d75-8b34-54629a246a32",
+        "name": "Leraton S2",
+        "brand": "Leraton",
+        "category": "Косметика",
+        "price": "650₽",
+        "description": "Косметика",
+        "photo": "images/3ec9c25e-a56b-4d75-8b34-54629a246a32.jpg"
+    },
+    {
+        "id": "2003ce8a-d72c-4d9a-b507-7b87ba9f0366",
+        "name": "Leraton P5",
+        "brand": "Leraton",
+        "category": "Косметика",
+        "price": "650₽",
+        "description": "Косметика",
+        "photo": "images/2003ce8a-d72c-4d9a-b507-7b87ba9f0366.jpg"
+    },
+    {
+        "id": "d303b62b-56ec-42e2-9104-015c8a7c9dca",
+        "name": "Leraton L1",
+        "brand": "Leraton",
+        "category": "Косметика",
+        "price": "450₽",
+        "description": "Косметика",
+        "photo": "images/d303b62b-56ec-42e2-9104-015c8a7c9dca.jpg"
+    },
+    {
+        "id": "17901d70-c890-45c3-97f5-9abe3c3796d3",
+        "name": "Leraton U1",
+        "brand": "Leraton",
+        "category": "Косметика",
+        "price": "480₽",
+        "description": "Косметика",
+        "photo": "images/17901d70-c890-45c3-97f5-9abe3c3796d3.jpg"
+    },
+    {
+        "id": "c3f79a93-e67a-422b-a355-a7e2f1d7b8b6",
+        "name": "Leraton M2",
+        "brand": "Leraton",
+        "category": "Косметика",
+        "price": "780₽",
+        "description": "Косметика",
+        "photo": "images/c3f79a93-e67a-422b-a355-a7e2f1d7b8b6.jpg"
+    },
+    {
+        "id": "b48679e1-03de-425a-a535-e83b7ab6e8d0",
+        "name": "Leraton G9",
+        "brand": "Leraton",
+        "category": "Косметика",
+        "price": "580₽",
+        "description": "Косметика",
+        "photo": "images/b48679e1-03de-425a-a535-e83b7ab6e8d0.jpg"
+    },
+    {
+        "id": "acc9b1f0-ffd8-4046-a64d-41e9c1ae9a37",
+        "name": "Leraton D1",
+        "brand": "Leraton",
+        "category": "Косметика",
+        "price": "650₽",
+        "description": "Косметика",
+        "photo": "images/acc9b1f0-ffd8-4046-a64d-41e9c1ae9a37.jpg"
+    },
+    {
+        "id": "89cade71-c6a2-484c-8d81-c32150274ef6",
+        "name": "Leraton D2",
+        "brand": "Leraton",
+        "category": "Косметика",
+        "price": "650₽",
+        "description": "Косметика",
+        "photo": "images/89cade71-c6a2-484c-8d81-c32150274ef6.jpg"
+    },
+    {
+        "id": "e02ff3eb-ea4c-493e-a572-b2449a233478",
+        "name": "Leraton IQ Detailer",
+        "brand": "Leraton",
+        "category": "Косметика",
+        "price": "600₽",
+        "description": "Косметика",
+        "photo": "images/e02ff3eb-ea4c-493e-a572-b2449a233478.jpg"
+    },
+    {
+        "id": "8775e15c-0ceb-4960-a1d9-528841afe9cf",
+        "name": "Leraton IQ Detailer",
+        "brand": "Leraton",
+        "category": "Косметика",
+        "price": "600₽",
+        "description": "Косметика",
+        "photo": "images/8775e15c-0ceb-4960-a1d9-528841afe9cf.jpg"
+    },
+    {
+        "id": "d89b1e3c-3438-41ac-b484-5e8825147e3c",
+        "name": "Leraton IQ Detailer",
+        "brand": "Leraton",
+        "category": "Косметика",
+        "price": "600₽",
+        "description": "Косметика",
+        "photo": "images/d89b1e3c-3438-41ac-b484-5e8825147e3c.jpg"
+    }
+]

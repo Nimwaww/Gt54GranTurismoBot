@@ -1,0 +1,20 @@
+[
+    {
+        "id": "878facf6-dd68-4fb3-9751-e706dddf1378",
+        "name": "Takayama 5W-40 1л",
+        "brand": "Takayama",
+        "category": "Масла",
+        "price": "850₽",
+        "description": "Моторное масло",
+        "photo": "images/878facf6-dd68-4fb3-9751-e706dddf1378.jpg"
+    },
+    {
+        "id": "683d41d3-6479-44e0-9c8e-6c5c3feb2d3a",
+        "name": "Takayama 5W-30 4л",
+        "brand": "Takayama",
+        "category": "Масла",
+        "price": "2950₽",
+        "description": "Моторное Масло",
+        "photo": "images/683d41d3-6479-44e0-9c8e-6c5c3feb2d3a.jpg"
+    }
+]

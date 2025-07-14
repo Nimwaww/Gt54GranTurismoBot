@@ -1,0 +1,20 @@
+[
+    {
+        "id": "3f820a75-08d6-4865-9ca4-e9cec1823d3e",
+        "name": "Moly Green 0W-20 4л",
+        "brand": "MolyGreen",
+        "category": "Масла",
+        "price": "5400₽",
+        "description": "Моторное Масло",
+        "photo": "images/3f820a75-08d6-4865-9ca4-e9cec1823d3e.jpg"
+    },
+    {
+        "id": "b4d7e8b2-8bcb-4cd8-b3a5-6e087b144403",
+        "name": "MolyGreen Pro-S 5W-30 4л",
+        "brand": "MolyGreen",
+        "category": "Масла",
+        "price": "5300₽",
+        "description": "Моторное Масло",
+        "photo": "images/b4d7e8b2-8bcb-4cd8-b3a5-6e087b144403.jpg"
+    }
+]

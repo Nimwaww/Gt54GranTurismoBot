@@ -1,0 +1,20 @@
+[
+    {
+        "id": "761b2e87-8f38-4f3e-959d-d03c705487f8",
+        "name": "Bright Night M6/H4",
+        "brand": "Bright Night",
+        "category": "Свет",
+        "price": "2450₽",
+        "description": "Свет",
+        "photo": "images/761b2e87-8f38-4f3e-959d-d03c705487f8.jpg"
+    },
+    {
+        "id": "91da686d-a347-48dd-b938-f271a2d3ab3a",
+        "name": "Bright Night M6/H7",
+        "brand": "Bright Night",
+        "category": "Свет",
+        "price": "2160₽",
+        "description": "Свет",
+        "photo": "images/91da686d-a347-48dd-b938-f271a2d3ab3a.jpg"
+    }
+]

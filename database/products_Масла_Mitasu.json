@@ -1,0 +1,29 @@
+[
+    {
+        "id": "eb409ab6-cae5-466b-9a58-a8af64b5cf7d",
+        "name": "Mitasu 5W-30 4л",
+        "brand": "Mitasu",
+        "category": "Масла",
+        "price": "5400₽",
+        "description": "Моторное масло",
+        "photo": "images/eb409ab6-cae5-466b-9a58-a8af64b5cf7d.jpg"
+    },
+    {
+        "id": "474a584b-d8f2-431f-ac4f-e4575dd6b9cb",
+        "name": "Mitasu 5W-30 1л",
+        "brand": "Mitasu",
+        "category": "Масла",
+        "price": "1745₽",
+        "description": "Моторное Масло",
+        "photo": "images/474a584b-d8f2-431f-ac4f-e4575dd6b9cb.jpg"
+    },
+    {
+        "id": "ec5d16c9-baa0-4362-a81f-53a7baddf1ed",
+        "name": "Mitasu 0W-20 4л",
+        "brand": "Mitasu",
+        "category": "Масла",
+        "price": "5800₽",
+        "description": "Моторное Масло",
+        "photo": "images/ec5d16c9-baa0-4362-a81f-53a7baddf1ed.jpg"
+    }
+]

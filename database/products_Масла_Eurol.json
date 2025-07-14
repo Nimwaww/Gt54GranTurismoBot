@@ -1,0 +1,29 @@
+[
+    {
+        "id": "62c97102-6be2-4a18-98bc-f8df2838680f",
+        "name": "Eurol 5W-30 5л",
+        "brand": "Eurol",
+        "category": "Масла",
+        "price": "3700₽",
+        "description": "Моторное масло",
+        "photo": "images/62c97102-6be2-4a18-98bc-f8df2838680f.jpg"
+    },
+    {
+        "id": "5851ed3b-98fd-414e-bea8-0e48d81bf647",
+        "name": "Eurol 5W-30 1л",
+        "brand": "Eurol",
+        "category": "Масла",
+        "price": "1400₽",
+        "description": "Моторное масло",
+        "photo": "images/5851ed3b-98fd-414e-bea8-0e48d81bf647.jpg"
+    },
+    {
+        "id": "e4f537a3-1ccc-4606-8ac7-267124cb08fa",
+        "name": "Eurol 5W-40",
+        "brand": "Eurol",
+        "category": "Масла",
+        "price": "3390₽",
+        "description": "Моторное масло",
+        "photo": "images/e4f537a3-1ccc-4606-8ac7-267124cb08fa.jpg"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id": "cc90a175-2936-4c72-a547-70e4fe07a12d",
+        "name": "Micking 5W-30 4л",
+        "brand": "Micking",
+        "category": "Масла",
+        "price": "2870₽",
+        "description": "Моторное масло",
+        "photo": "images/cc90a175-2936-4c72-a547-70e4fe07a12d.jpg"
+    },
+    {
+        "id": "0335f0c6-a083-4774-bc5f-bd2999090645",
+        "name": "Micking 10W-40 4л",
+        "brand": "Micking",
+        "category": "Масла",
+        "price": "2650₽",
+        "description": "Моторное масло",
+        "photo": "images/0335f0c6-a083-4774-bc5f-bd2999090645.jpg"
+    },
+    {
+        "id": "6a83b677-0b4e-499d-abe6-cbde941ad291",
+        "name": "Micking 5W-40 4л",
+        "brand": "Micking",
+        "category": "Масла",
+        "price": "2850₽",
+        "description": "Моторное масло",
+        "photo": "images/6a83b677-0b4e-499d-abe6-cbde941ad291.jpg"
+    },
+    {
+        "id": "e4a7541b-e5da-4bbf-a66d-08803bf3811a",
+        "name": "Micking 5W-30 1л",
+        "brand": "Micking",
+        "category": "Масла",
+        "price": "720₽",
+        "description": "Моторное масло",
+        "photo": "images/e4a7541b-e5da-4bbf-a66d-08803bf3811a.jpg"
+    },
+    {
+        "id": "c19c6057-06ef-4bfe-a0a7-eb2961aa7f11",
+        "name": "Micking 5W-40 1л",
+        "brand": "Micking",
+        "category": "Масла",
+        "price": "895₽",
+        "description": "Моторное масло",
+        "photo": "images/c19c6057-06ef-4bfe-a0a7-eb2961aa7f11.jpg"
+    },
+    {
+        "id": "dea9ed35-f11e-4d7f-98d2-9d92ad7fb900",
+        "name": "Micking 10W-40 1л",
+        "brand": "Micking",
+        "category": "Масла",
+        "price": "690₽",
+        "description": "Моторное масло",
+        "photo": "images/dea9ed35-f11e-4d7f-98d2-9d92ad7fb900.jpg"
+    }
+]

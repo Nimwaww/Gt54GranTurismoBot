@@ -1,0 +1,20 @@
+[
+    {
+        "id": "962f0f69-65e9-4d32-ad26-5d848e46644c",
+        "name": "Idemitsu 5w-30 4л",
+        "brand": "Idemitsu",
+        "category": "Масла",
+        "price": "6200₽",
+        "description": "Моторное масло",
+        "photo": "images/962f0f69-65e9-4d32-ad26-5d848e46644c.jpg"
+    },
+    {
+        "id": "6f2aadc0-e1db-4c8c-be5d-91d7d8ffce56",
+        "name": "idemitsu 0W-20 4л",
+        "brand": "Idemitsu",
+        "category": "Масла",
+        "price": "6550₽",
+        "description": "Моторное масло",
+        "photo": "images/6f2aadc0-e1db-4c8c-be5d-91d7d8ffce56.jpg"
+    }
+]

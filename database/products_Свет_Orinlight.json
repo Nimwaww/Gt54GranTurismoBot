@@ -1,0 +1,101 @@
+[
+    {
+        "id": "9d0e9319-a1d5-4f56-83d4-662ea7640476",
+        "name": "Oringlight Tamaram",
+        "brand": "Orinlight",
+        "category": "Свет",
+        "price": "10.300₽",
+        "description": "Свет",
+        "photo": "images/9d0e9319-a1d5-4f56-83d4-662ea7640476.jpg"
+    },
+    {
+        "id": "9e92c001-ea8f-42ed-b57a-0eef673c6fe5",
+        "name": "Orinlight BI LED",
+        "brand": "Orinlight",
+        "category": "Свет",
+        "price": "9.500₽",
+        "description": "Свет",
+        "photo": "images/9e92c001-ea8f-42ed-b57a-0eef673c6fe5.jpg"
+    },
+    {
+        "id": "f8fbfcd2-b4e4-4b68-964d-c74ed31dc8b9",
+        "name": "Orinlight Q1S H7",
+        "brand": "Orinlight",
+        "category": "Свет",
+        "price": "3550₽",
+        "description": "Свет",
+        "photo": "images/f8fbfcd2-b4e4-4b68-964d-c74ed31dc8b9.jpg"
+    },
+    {
+        "id": "85511ac0-3b59-4f6b-9b56-8f5a978ead16",
+        "name": "Orinlight M10 H7",
+        "brand": "Orinlight",
+        "category": "Свет",
+        "price": "2380₽",
+        "description": "Свет",
+        "photo": "images/85511ac0-3b59-4f6b-9b56-8f5a978ead16.jpg"
+    },
+    {
+        "id": "e32cd615-3e91-4867-9a43-4b74c598df34",
+        "name": "Orinlight M10 H4",
+        "brand": "Orinlight",
+        "category": "Свет",
+        "price": "2680₽",
+        "description": "Свет",
+        "photo": "images/e32cd615-3e91-4867-9a43-4b74c598df34.jpg"
+    },
+    {
+        "id": "4770fa69-b49a-41c9-80c1-31292ffefe35",
+        "name": "Orinlight HID TO LED D1",
+        "brand": "Orinlight",
+        "category": "Свет",
+        "price": "4360₽",
+        "description": "Свет",
+        "photo": "images/4770fa69-b49a-41c9-80c1-31292ffefe35.jpg"
+    },
+    {
+        "id": "29e37672-d3ef-4969-ace7-19141d27c495",
+        "name": "Orinlight Hid To led D4",
+        "brand": "Orinlight",
+        "category": "Свет",
+        "price": "4360₽",
+        "description": "Свет",
+        "photo": "images/29e37672-d3ef-4969-ace7-19141d27c495.jpg"
+    },
+    {
+        "id": "a7bf3527-c5d1-42b0-8411-62aedd21b9c2",
+        "name": "Orinlight M2 H7",
+        "brand": "Orinlight",
+        "category": "Свет",
+        "price": "3700₽",
+        "description": "Свет",
+        "photo": "images/a7bf3527-c5d1-42b0-8411-62aedd21b9c2.jpg"
+    },
+    {
+        "id": "ad468e76-f130-467a-a095-940f31a06a3d",
+        "name": "Orinlight HB3",
+        "brand": "Orinlight",
+        "category": "Свет",
+        "price": "4810₽",
+        "description": "Свет",
+        "photo": "images/ad468e76-f130-467a-a095-940f31a06a3d.jpg"
+    },
+    {
+        "id": "bc8a36e7-6796-4124-8d34-381705329a08",
+        "name": "Orinlight M5/H3",
+        "brand": "Orinlight",
+        "category": "Свет",
+        "price": "2510₽",
+        "description": "Свет",
+        "photo": "images/bc8a36e7-6796-4124-8d34-381705329a08.jpg"
+    },
+    {
+        "id": "3c68083e-d809-4f41-9668-f5d5f3275760",
+        "name": "Orinlight M5/H4",
+        "brand": "Orinlight",
+        "category": "Свет",
+        "price": "2800₽",
+        "description": "Свет",
+        "photo": "images/3c68083e-d809-4f41-9668-f5d5f3275760.jpg"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": "7d1f32d5-e13b-4f99-9bfd-bed9e04c44e0",
+        "name": "Autobacs 0W-20 4л",
+        "brand": "AutoBacs",
+        "category": "Масла",
+        "price": "4850₽",
+        "description": "Моторное масло",
+        "photo": "images/7d1f32d5-e13b-4f99-9bfd-bed9e04c44e0.jpg"
+    },
+    {
+        "id": "6dedb079-7289-4845-a673-dd64d6b49a0f",
+        "name": "AutoBacs 5W-30 4л",
+        "brand": "AutoBacs",
+        "category": "Масла",
+        "price": "5550₽",
+        "description": "Моторное масло",
+        "photo": "images/6dedb079-7289-4845-a673-dd64d6b49a0f.jpg"
+    }
+]

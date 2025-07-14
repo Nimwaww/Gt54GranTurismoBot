@@ -1,0 +1,38 @@
+[
+    {
+        "id": "598e89bd-220e-4e0a-9f21-d498e29799db",
+        "name": "Лукойл 5W-40 5л",
+        "brand": "Лукойл",
+        "category": "Масла",
+        "price": "1550₽",
+        "description": "Моторное масло",
+        "photo": "images/598e89bd-220e-4e0a-9f21-d498e29799db.jpg"
+    },
+    {
+        "id": "b7a663ac-6540-4ec9-861a-283409ead95e",
+        "name": "Лукойл 5W-40 4л",
+        "brand": "Лукойл",
+        "category": "Масла",
+        "price": "2220₽",
+        "description": "Моторное масло",
+        "photo": "images/b7a663ac-6540-4ec9-861a-283409ead95e.jpg"
+    },
+    {
+        "id": "42423c26-9828-410f-8ed0-ef9ba57c1351",
+        "name": "Лукойл 5W-30 4л",
+        "brand": "Лукойл",
+        "category": "Масла",
+        "price": "2780₽",
+        "description": "Моторное масло",
+        "photo": "images/42423c26-9828-410f-8ed0-ef9ba57c1351.jpg"
+    },
+    {
+        "id": "be2c1b5e-b221-4547-858e-2c6c393e6ecd",
+        "name": "Лукойл 5W-30 4л",
+        "brand": "Лукойл",
+        "category": "Масла",
+        "price": "2950₽",
+        "description": "Моторное масло",
+        "photo": "images/be2c1b5e-b221-4547-858e-2c6c393e6ecd.jpg"
+    }
+]
